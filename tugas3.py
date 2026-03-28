@@ -10,7 +10,6 @@ c = 3.14
 
 #Variable Boolean
 d = True
-
 #variable List
 e = [1, 2, 3, 4, 5]
 
