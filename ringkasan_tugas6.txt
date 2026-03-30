@@ -1,0 +1,33 @@
+        RINGKASAN TUGAS 6 - PANDAS
+========================================
+
+[ STATISTIK NILAI UJIAN ]
+  Nilai:  [78 85 92 67 88 73 90 95 87 70]
+  Rata-rata        : 82.50
+  Median           : 86.0
+  Standar Deviasi  : 9.30859817588019
+  Nilai Minimum    : 67
+  Nilai Maksimum   : 95
+
+[ RINGKASAN DATAFRAME ]
+  Jumlah Baris     : 5
+  Kolom            : Nama, NIM, Nilai, Status
+
+[ STATUS KELULUSAN ]
+  Lulus            : 4 mahasiswa
+  Tidak Lulus      : 1 mahasiswa
+  Kriteria         : Nilai >= 70 = Lulus
+
+[ DETAIL MAHASISWA ]
+  Jolin            | NIM: 2331207 | Nilai: 85 |         LULUS
+  Calvin                  2331206          78           LULUS
+  Doni                    2412001          92           LULUS
+  Bayu                    2232035          67           TIDAK LULUS     
+  Budi                    2331208          88           LULUS
+
+=== Ringkasan GradeBook ===
+Jumlah data: 5
+Rata-rata nilai: 82.0
+Persentase lulus (>=70): 80.0%
+Jumlah lulus: 4
+Jumlah tidak lulus: 1

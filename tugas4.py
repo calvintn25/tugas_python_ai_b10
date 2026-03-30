@@ -164,3 +164,5 @@ if item in list:
     print(f"{item} ditemukan di indeks {index}")
 else:
     print(f"{item} tidak ditemukan di data")
+
+
